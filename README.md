@@ -9,3 +9,7 @@ A térképet igyekszünk nagy felbontásban, A3 körüli méretnél is jó minő
 A projektben található .svg kiterjesztésű fileok megnyithatók tetszőleges bőngészőben (pl. "google-chrome AlapTerkep.svg", ill. szerkeszthetők ú.n. SVG editorokkal, amelyek közül az inkscape nevű ingyenes szoftver ajánljuk. 
 
 Az SVG editorokkal exportálni is lehet a rajzokat, pl. PDF vagy PNG formátumba.
+
+## A qgz kiterjesztésű QGIS file-ok
+
+Szerintem csak insallálni kell a QGIS-t, és "qgis <filenév>"...
