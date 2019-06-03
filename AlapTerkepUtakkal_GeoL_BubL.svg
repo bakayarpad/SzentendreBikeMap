@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1700"
+   height="3200"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="AlapTerkepUtakkal2Layers.svg"
+   inkscape:export-filename="/tmp/SzentendreKornyeke2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3726">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3724">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5419"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#16502d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12967"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12969"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#16502d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12891"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12893"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#16502d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5416"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#16502d;fill-opacity:1;fill-rule:evenodd;stroke:#16502d;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5999"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6001"
+         style="fill:#005522;fill-opacity:1;fill-rule:evenodd;stroke:#005522;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5834"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5836"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5782"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5784"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5437"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5431"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5413"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5407"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:#aa0000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview3722"
+     showgrid="false"
+     inkscape:zoom="0.59058669"
+     inkscape:cx="645.80341"
+     inkscape:cy="2914.5368"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3336" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5711.png"
+     xlink:href="tiles/14-9056-5711.png"
+     id="image3338"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5712.png"
+     xlink:href="tiles/14-9056-5712.png"
+     id="image3340"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5713.png"
+     xlink:href="tiles/14-9056-5713.png"
+     id="image3342"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5714.png"
+     xlink:href="tiles/14-9056-5714.png"
+     id="image3344"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5715.png"
+     xlink:href="tiles/14-9056-5715.png"
+     id="image3346"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5716.png"
+     xlink:href="tiles/14-9056-5716.png"
+     id="image3348"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5717.png"
+     xlink:href="tiles/14-9056-5717.png"
+     id="image3350"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5718.png"
+     xlink:href="tiles/14-9056-5718.png"
+     id="image3352"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5719.png"
+     xlink:href="tiles/14-9056-5719.png"
+     id="image3354"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5720.png"
+     xlink:href="tiles/14-9056-5720.png"
+     id="image3356"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5721.png"
+     xlink:href="tiles/14-9056-5721.png"
+     id="image3358"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5722.png"
+     xlink:href="tiles/14-9056-5722.png"
+     id="image3360"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9056-5723.png"
+     xlink:href="tiles/14-9056-5723.png"
+     id="image3362"
+     width="256"
+     height="256"
+     x="9.6502085"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5711.png"
+     xlink:href="tiles/14-9057-5711.png"
+     id="image3370"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5712.png"
+     xlink:href="tiles/14-9057-5712.png"
+     id="image3372"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5713.png"
+     xlink:href="tiles/14-9057-5713.png"
+     id="image3374"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5714.png"
+     xlink:href="tiles/14-9057-5714.png"
+     id="image3376"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5715.png"
+     xlink:href="tiles/14-9057-5715.png"
+     id="image3378"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5716.png"
+     xlink:href="tiles/14-9057-5716.png"
+     id="image3380"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5717.png"
+     xlink:href="tiles/14-9057-5717.png"
+     id="image3382"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5718.png"
+     xlink:href="tiles/14-9057-5718.png"
+     id="image3384"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5719.png"
+     xlink:href="tiles/14-9057-5719.png"
+     id="image3386"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5720.png"
+     xlink:href="tiles/14-9057-5720.png"
+     id="image3388"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="2310.4968"
+     style="fill:#37c770" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5721.png"
+     xlink:href="tiles/14-9057-5721.png"
+     id="image3390"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5722.png"
+     xlink:href="tiles/14-9057-5722.png"
+     id="image3392"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9057-5723.png"
+     xlink:href="tiles/14-9057-5723.png"
+     id="image3394"
+     width="256"
+     height="256"
+     x="265.65021"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5711.png"
+     xlink:href="tiles/14-9058-5711.png"
+     id="image3402"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5712.png"
+     xlink:href="tiles/14-9058-5712.png"
+     id="image3404"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5713.png"
+     xlink:href="tiles/14-9058-5713.png"
+     id="image3406"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5714.png"
+     xlink:href="tiles/14-9058-5714.png"
+     id="image3408"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5715.png"
+     xlink:href="tiles/14-9058-5715.png"
+     id="image3410"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5716.png"
+     xlink:href="tiles/14-9058-5716.png"
+     id="image3412"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5717.png"
+     xlink:href="tiles/14-9058-5717.png"
+     id="image3414"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5718.png"
+     xlink:href="tiles/14-9058-5718.png"
+     id="image3416"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5719.png"
+     xlink:href="tiles/14-9058-5719.png"
+     id="image3418"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5720.png"
+     xlink:href="tiles/14-9058-5720.png"
+     id="image3420"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5721.png"
+     xlink:href="tiles/14-9058-5721.png"
+     id="image3422"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5722.png"
+     xlink:href="tiles/14-9058-5722.png"
+     id="image3424"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9058-5723.png"
+     xlink:href="tiles/14-9058-5723.png"
+     id="image3426"
+     width="256"
+     height="256"
+     x="521.65015"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5711.png"
+     xlink:href="tiles/14-9059-5711.png"
+     id="image3434"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5712.png"
+     xlink:href="tiles/14-9059-5712.png"
+     id="image3436"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5713.png"
+     xlink:href="tiles/14-9059-5713.png"
+     id="image3438"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5714.png"
+     xlink:href="tiles/14-9059-5714.png"
+     id="image3440"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5715.png"
+     xlink:href="tiles/14-9059-5715.png"
+     id="image3442"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5716.png"
+     xlink:href="tiles/14-9059-5716.png"
+     id="image3444"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5717.png"
+     xlink:href="tiles/14-9059-5717.png"
+     id="image3446"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5718.png"
+     xlink:href="tiles/14-9059-5718.png"
+     id="image3448"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5719.png"
+     xlink:href="tiles/14-9059-5719.png"
+     id="image3450"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5720.png"
+     xlink:href="tiles/14-9059-5720.png"
+     id="image3452"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5721.png"
+     xlink:href="tiles/14-9059-5721.png"
+     id="image3454"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5722.png"
+     xlink:href="tiles/14-9059-5722.png"
+     id="image3456"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9059-5723.png"
+     xlink:href="tiles/14-9059-5723.png"
+     id="image3458"
+     width="256"
+     height="256"
+     x="777.65021"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5711.png"
+     xlink:href="tiles/14-9060-5711.png"
+     id="image3466"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5712.png"
+     xlink:href="tiles/14-9060-5712.png"
+     id="image3468"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5713.png"
+     xlink:href="tiles/14-9060-5713.png"
+     id="image3470"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5714.png"
+     xlink:href="tiles/14-9060-5714.png"
+     id="image3472"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5715.png"
+     xlink:href="tiles/14-9060-5715.png"
+     id="image3474"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5716.png"
+     xlink:href="tiles/14-9060-5716.png"
+     id="image3476"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5717.png"
+     xlink:href="tiles/14-9060-5717.png"
+     id="image3478"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5718.png"
+     xlink:href="tiles/14-9060-5718.png"
+     id="image3480"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5719.png"
+     xlink:href="tiles/14-9060-5719.png"
+     id="image3482"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5720.png"
+     xlink:href="tiles/14-9060-5720.png"
+     id="image3484"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5721.png"
+     xlink:href="tiles/14-9060-5721.png"
+     id="image3486"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5722.png"
+     xlink:href="tiles/14-9060-5722.png"
+     id="image3488"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9060-5723.png"
+     xlink:href="tiles/14-9060-5723.png"
+     id="image3490"
+     width="256"
+     height="256"
+     x="1033.6504"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5711.png"
+     xlink:href="tiles/14-9061-5711.png"
+     id="image3498"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5712.png"
+     xlink:href="tiles/14-9061-5712.png"
+     id="image3500"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5713.png"
+     xlink:href="tiles/14-9061-5713.png"
+     id="image3502"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5714.png"
+     xlink:href="tiles/14-9061-5714.png"
+     id="image3504"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5715.png"
+     xlink:href="tiles/14-9061-5715.png"
+     id="image3506"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5716.png"
+     xlink:href="tiles/14-9061-5716.png"
+     id="image3508"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5717.png"
+     xlink:href="tiles/14-9061-5717.png"
+     id="image3510"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5718.png"
+     xlink:href="tiles/14-9061-5718.png"
+     id="image3512"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5719.png"
+     xlink:href="tiles/14-9061-5719.png"
+     id="image3514"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5720.png"
+     xlink:href="tiles/14-9061-5720.png"
+     id="image3516"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5721.png"
+     xlink:href="tiles/14-9061-5721.png"
+     id="image3518"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5722.png"
+     xlink:href="tiles/14-9061-5722.png"
+     id="image3520"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9061-5723.png"
+     xlink:href="tiles/14-9061-5723.png"
+     id="image3522"
+     width="256"
+     height="256"
+     x="1289.6503"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5711.png"
+     xlink:href="tiles/14-9062-5711.png"
+     id="image3530"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5712.png"
+     xlink:href="tiles/14-9062-5712.png"
+     id="image3532"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5713.png"
+     xlink:href="tiles/14-9062-5713.png"
+     id="image3534"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5714.png"
+     xlink:href="tiles/14-9062-5714.png"
+     id="image3536"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5715.png"
+     xlink:href="tiles/14-9062-5715.png"
+     id="image3538"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5716.png"
+     xlink:href="tiles/14-9062-5716.png"
+     id="image3540"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5717.png"
+     xlink:href="tiles/14-9062-5717.png"
+     id="image3542"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5718.png"
+     xlink:href="tiles/14-9062-5718.png"
+     id="image3544"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5719.png"
+     xlink:href="tiles/14-9062-5719.png"
+     id="image3546"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5720.png"
+     xlink:href="tiles/14-9062-5720.png"
+     id="image3548"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5721.png"
+     xlink:href="tiles/14-9062-5721.png"
+     id="image3550"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5722.png"
+     xlink:href="tiles/14-9062-5722.png"
+     id="image3552"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9062-5723.png"
+     xlink:href="tiles/14-9062-5723.png"
+     id="image3554"
+     width="256"
+     height="256"
+     x="1545.6503"
+     y="3078.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5711.png"
+     xlink:href="tiles/14-9063-5711.png"
+     id="image3562"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="6.4966621" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5712.png"
+     xlink:href="tiles/14-9063-5712.png"
+     id="image3564"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="262.49667" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5713.png"
+     xlink:href="tiles/14-9063-5713.png"
+     id="image3566"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="518.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5714.png"
+     xlink:href="tiles/14-9063-5714.png"
+     id="image3568"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="774.49664" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5715.png"
+     xlink:href="tiles/14-9063-5715.png"
+     id="image3570"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="1030.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5716.png"
+     xlink:href="tiles/14-9063-5716.png"
+     id="image3572"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="1286.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5717.png"
+     xlink:href="tiles/14-9063-5717.png"
+     id="image3574"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="1542.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5718.png"
+     xlink:href="tiles/14-9063-5718.png"
+     id="image3576"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="1798.4966" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5719.png"
+     xlink:href="tiles/14-9063-5719.png"
+     id="image3578"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="2054.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5720.png"
+     xlink:href="tiles/14-9063-5720.png"
+     id="image3580"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="2310.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5721.png"
+     xlink:href="tiles/14-9063-5721.png"
+     id="image3582"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="2566.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5722.png"
+     xlink:href="tiles/14-9063-5722.png"
+     id="image3584"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="2822.4968" />
+  <image
+     sodipodi:absref="/home/arpad/Saját/Szentendre/SzentendreBikeMap/tiles/14-9063-5723.png"
+     xlink:href="tiles/14-9063-5723.png"
+     id="image3586"
+     width="256"
+     height="256"
+     x="1801.6503"
+     y="3078.4968" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.62655604;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect13394"
+     width="87.005295"
+     height="50.317032"
+     x="1032.5295"
+     y="1922.8418"
+     ry="19.665676" />
+  <g
+     id="g4991-3"
+     transform="matrix(0.07616614,0,0,0.07050032,1110.479,1712.0362)"
+     style="fill:#008000">
+    <path
+       id="path4953-6"
+       d="m 474.11,242.115 c -1.318,-2.396 -3.836,-3.883 -6.57,-3.883 l -122.674,0 -31.257,-72.934 c -4.341,-10.125 -14.262,-16.667 -25.276,-16.667 l -30.513,0 0,-40.033 c 0,-4.142 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 l 0,40.033 -43.699,0 c -4.142,0 -7.5,3.358 -7.5,7.5 l 0,18.1 -24.701,0 -11.634,-60.706 c -0.677,-3.534 -3.768,-6.088 -7.366,-6.088 l -64,0 c -2.236,0 -4.356,0.998 -5.781,2.722 -1.425,1.724 -2.006,3.994 -1.585,6.19 l 11.092,57.882 -20.183,0 c -3.732,0 -6.897,2.745 -7.425,6.439 l -8.223,57.561 -44.315,0 c -2.258,0 -4.396,1.018 -5.82,2.77 -1.424,1.752 -1.983,4.053 -1.521,6.264 l 8.012,38.348 c 0.004,0.022 0.009,0.043 0.013,0.065 l 12.208,58.432 c 3.611,17.285 19.049,29.831 36.707,29.831 l 312.001,0 c 16.373,0 31.376,-8.259 40.134,-22.092 l 64.642,-102.105 c 1.463,-2.31 1.552,-5.233 0.234,-7.629 z m -332.389,-119.677 1.854,9.675 c -0.074,-0.002 -0.147,-0.011 -0.222,-0.011 l -46.633,0 c -0.632,0 -1.243,0.087 -1.83,0.234 l -1.897,-9.898 48.728,0 z m -44.001,24.664 45.633,0 c 1.058,0 2.063,-0.221 2.976,-0.617 l 5.317,27.747 -48.726,0 -5.2,-27.13 z m 298.841,196.723 c -5.992,9.465 -16.257,15.115 -27.46,15.115 l -312.001,0 c -10.595,0 -19.857,-7.527 -22.024,-17.898 l -10.323,-49.411 379.167,0 c 4.143,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.357,-7.5 -7.5,-7.5 l -382.302,0 -4.889,-23.4 41.586,0 c 0.005,0 0.009,0.001 0.014,0.001 0.007,0 0.014,-0.001 0.021,-0.001 l 249.669,0 c 4.143,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.357,-7.5 -7.5,-7.5 l -241.051,0 7,-49 22.637,0 c 0.014,0 0.028,0 0.041,0 l 64.033,0 c 0.011,0 0.022,0.001 0.033,0.001 0.01,0 0.021,-0.001 0.031,-0.001 l 38.377,0 c 4.142,0 7.5,-3.358 7.5,-7.5 l 0,-18.1 81.712,0 c 5.007,0 9.517,2.974 11.489,7.576 l 6.711,15.659 -70.142,0 c -6.474,0 -11.241,6.057 -9.72,12.349 l 2.666,11.029 c 1.085,4.489 5.102,7.651 9.72,7.651 l 80.774,0 13.167,30.723 c 0.141,0.337 0.311,0.658 0.498,0.968 0.038,0.063 0.075,0.127 0.115,0.188 0.172,0.268 0.358,0.527 0.563,0.771 0.048,0.057 0.1,0.108 0.149,0.164 0.171,0.192 0.351,0.374 0.54,0.547 0.065,0.059 0.127,0.12 0.194,0.176 0.236,0.202 0.484,0.39 0.744,0.562 0.048,0.031 0.097,0.058 0.145,0.088 0.238,0.149 0.486,0.285 0.741,0.407 0.054,0.026 0.107,0.053 0.161,0.078 0.297,0.134 0.603,0.251 0.92,0.346 0.033,0.01 0.066,0.016 0.099,0.025 0.273,0.078 0.553,0.138 0.837,0.185 0.086,0.014 0.171,0.028 0.257,0.039 0.291,0.037 0.585,0.061 0.885,0.064 0.026,0 0.052,0.006 0.079,0.006 0.013,0 0.026,-0.002 0.039,-0.002 l 113.951,0 -57.353,90.595 z"
+       inkscape:connector-curvature="0"
+       style="fill:#008000" />
+    <g
+       id="g4955-7"
+       style="fill:#008000" />
+    <g
+       id="g4957-5"
+       style="fill:#008000" />
+    <g
+       id="g4959-3"
+       style="fill:#008000" />
+    <g
+       id="g4961-5"
+       style="fill:#008000" />
+    <g
+       id="g4963-6"
+       style="fill:#008000" />
+    <g
+       id="g4965-2"
+       style="fill:#008000" />
+    <g
+       id="g4967-9"
+       style="fill:#008000" />
+    <g
+       id="g4969-1"
+       style="fill:#008000" />
+    <g
+       id="g4971-2"
+       style="fill:#008000" />
+    <g
+       id="g4973-7"
+       style="fill:#008000" />
+    <g
+       id="g4975-0"
+       style="fill:#008000" />
+    <g
+       id="g4977-9"
+       style="fill:#008000" />
+    <g
+       id="g4979-3"
+       style="fill:#008000" />
+    <g
+       id="g4981-6"
+       style="fill:#008000" />
+    <g
+       id="g4983-0"
+       style="fill:#008000" />
+  </g>
+  <rect
+     ry="16.861597"
+     y="1779.3303"
+     x="1064.4314"
+     height="35.768841"
+     width="35.768845"
+     id="rect13392"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.62655604;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  <g
+     id="g5200"
+     transform="matrix(0.06370513,0,0,0.06370513,1071.5753,1787.3115)"
+     style="fill:#501616;stroke:#501616">
+    <g
+       id="g5156"
+       style="fill:#501616;stroke:#501616">
+      <path
+         id="path5158"
+         d="M 165,0 C 74.019,0 0,74.02 0,165.001 0,255.982 74.019,330 165,330 255.981,330 330,255.982 330,165.001 330,74.02 255.981,0 165,0 Z m 0,300 C 90.56,300 30,239.44 30,165.001 30,90.562 90.56,30 165,30 239.44,30 300,90.562 300,165.001 300,239.44 239.439,300 165,300 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#501616;stroke:#501616" />
+      <path
+         id="path5160"
+         d="m 164.998,70 c -11.026,0 -19.996,8.976 -19.996,20.009 0,11.023 8.97,19.991 19.996,19.991 11.026,0 19.996,-8.968 19.996,-19.991 C 184.994,78.976 176.024,70 164.998,70 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#501616;stroke:#501616" />
+      <path
+         id="path5162"
+         d="m 165,140 c -8.284,0 -15,6.716 -15,15 l 0,90 c 0,8.284 6.716,15 15,15 8.284,0 15,-6.716 15,-15 l 0,-90 c 0,-8.284 -6.716,-15 -15,-15 z"
+         inkscape:connector-curvature="0"
+         style="fill:#501616;stroke:#501616" />
+    </g>
+    <g
+       id="g5164"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5166"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5168"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5170"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5172"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5174"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5176"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5178"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5180"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5182"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5184"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5186"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5188"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5190"
+       style="fill:#501616;stroke:#501616" />
+    <g
+       id="g5192"
+       style="fill:#501616;stroke:#501616" />
+  </g>
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.62655604;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect13390"
+     width="84.588478"
+     height="38.185654"
+     x="1138.8691"
+     y="1283.8837"
+     ry="18.000895" />
+  <g
+     id="g5886"
+     transform="matrix(0.07228018,0,0,0.07349918,1188.8468,1288.0797)"
+     style="fill:#806600;stroke:#a05a2c">
+    <path
+       d="m 298.427,117.237 0,-98.079 c 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 l 0,98.079 c 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 z m -22.13,8 c 4.418,0 8,-3.582 8,-8 l 0,-98.079 c 0,-4.418 -3.582,-8 -8,-8 -4.418,0 -8,3.582 -8,8 l 0,98.079 c 0,4.418 3.582,8 8,8 z m -161.233,74.709 c 0,-4.418 -3.582,-8 -8,-8 l -99.064,0 c -3.236,0 -6.153,1.949 -7.391,4.938 -1.238,2.989 -0.554,6.43 1.734,8.718 L 83.96,287.22 c 1.562,1.562 3.609,2.343 5.657,2.343 2.048,0 4.095,-0.781 5.657,-2.343 3.125,-3.124 3.125,-8.189 0,-11.313 l -67.96,-67.96 79.75,0 c 4.418,-0.001 8,-3.582 8,-8.001 z m 47.804,51.862 0,133.844 c 0,14.004 -11.394,25.397 -25.398,25.397 -14.003,0 -25.396,-11.393 -25.396,-25.397 l 0,-133.844 c 0,-11.209 7.3,-20.747 17.396,-24.106 l 0,-65.584 c -30.365,-4.819 -53.897,-36.69 -53.897,-75.165 0,-41.794 27.767,-75.795 61.897,-75.795 34.131,0 61.898,34.001 61.898,75.795 0,38.475 -23.532,70.346 -53.898,75.165 l 0,65.584 c 10.098,3.358 17.398,12.895 17.398,24.106 z M 137.47,146.748 c 25.308,0 45.898,-26.824 45.898,-59.795 0,-32.971 -20.59,-59.795 -45.898,-59.795 -25.308,0 -45.897,26.824 -45.897,59.795 0,32.971 20.589,59.795 45.897,59.795 z m 9.398,105.06 c 0,-5.181 -4.216,-9.396 -9.398,-9.396 -5.181,0 -9.396,4.215 -9.396,9.396 l 0,133.844 c 0,5.182 4.215,9.397 9.396,9.397 5.182,0 9.398,-4.216 9.398,-9.397 l 0,-133.844 z m 274.73,-54.923 c -1.238,-2.989 -4.155,-4.938 -7.391,-4.938 l -97.19,0 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 l 77.877,0 -64.682,64.681 c -3.124,3.124 -3.124,8.189 0,11.313 1.563,1.562 3.61,2.343 5.657,2.343 2.048,0 4.095,-0.781 5.657,-2.343 l 78.338,-78.338 c 2.289,-2.288 2.972,-5.729 1.734,-8.718 z m -104.838,54.923 0,133.844 c 0,14.004 -11.394,25.397 -25.398,25.397 -14.004,0 -25.396,-11.393 -25.396,-25.397 l 0,-133.844 c 0,-11.209 7.301,-20.747 17.396,-24.106 l 0,-65.553 C 257.81,158.28 238.166,136.168 238.166,109.553 l 0,-90.395 c 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 l 0,90.395 c 0,20.471 16.624,37.133 37.081,37.196 0.076,-0.001 0.154,-0.001 0.23,0 20.457,-0.063 37.082,-16.725 37.082,-37.196 l 0,-90.395 c 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 l 0,90.395 c 0,26.615 -19.645,48.727 -45.197,52.596 l 0,65.553 c 10.097,3.358 17.398,12.895 17.398,24.106 z m -16,0 c 0,-5.181 -4.216,-9.396 -9.398,-9.396 -5.182,0 -9.396,4.215 -9.396,9.396 l 0,133.844 c 0,5.182 4.215,9.397 9.396,9.397 5.183,0 9.398,-4.216 9.398,-9.397 l 0,-133.844 z m -58.331,108.601 -31.325,31.327 -23.331,-23.331 c -3.124,-3.124 -8.189,-3.124 -11.314,0 -3.124,3.124 -3.124,8.189 0,11.313 l 28.988,28.987 c 1.5,1.5 3.535,2.343 5.657,2.343 2.122,0 4.156,-0.843 5.657,-2.343 l 36.981,-36.983 c 3.124,-3.125 3.124,-8.189 -10e-4,-11.314 -3.123,-3.124 -8.188,-3.122 -11.312,10e-4 z m 27.327,-160.461 c 0,-4.418 -3.582,-8 -8,-8 l -93.746,0 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 l 93.747,0 c 4.417,0 7.999,-3.581 7.999,-8 z"
+       id="XMLID_111_"
+       inkscape:connector-curvature="0"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5850"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5852"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5854"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5856"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5858"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5860"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5862"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5864"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5866"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5868"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5870"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5872"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5874"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5876"
+       style="fill:#806600;stroke:#a05a2c" />
+    <g
+       id="g5878"
+       style="fill:#806600;stroke:#a05a2c" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1166.9119"
+     y="1300.178"
+     id="text5904"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5906"
+       x="1166.9119"
+       y="1300.178"
+       style="font-weight:bold;fill:#a05a2c">Határ</tspan><tspan
+       sodipodi:role="line"
+       x="1166.9119"
+       y="1315.803"
+       id="tspan5908"
+       style="font-weight:bold;fill:#a05a2c">csárda</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="596.24268"
+     y="1611.2074"
+     id="text5909"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5911"
+       x="596.24268"
+       y="1611.2074" /></text>
+  <g
+     style="fill:#008000"
+     transform="matrix(0.06576368,0,0,0.06597246,1263.5738,892.40862)"
+     id="g5925">
+    <path
+       style="stroke:#008000;stroke-width:15.1818819"
+       inkscape:connector-curvature="0"
+       d="m 502.74274,293.67829 c -1.65123,-3.27202 -4.80587,-5.3027 -8.23112,-5.3027 l -153.69024,0 -39.15986,-99.59998 c -5.43855,-13.82688 -17.86793,-22.76076 -31.66665,-22.76076 l -38.22774,0 0,-54.66978 c 0,-5.65639 -4.20577,-10.24214 -9.39626,-10.24214 -5.1905,0 -9.39626,4.58575 -9.39626,10.24214 l 0,54.66978 -54.74763,0 c -5.18924,0 -9.39626,4.58575 -9.39626,10.24214 l 0,24.71769 -30.94627,0 -14.57548,-82.90121 c -0.84817,-4.82609 -4.720683,-8.31388 -9.228383,-8.31388 l -80.181426,0 c -2.80134,0 -5.4573464,1.36288 -7.2426354,3.71721 -1.785289,2.35432 -2.513186,5.45428 -1.985743,8.45317 l 13.8964384,79.04471 -25.2859584,0 c -4.6755786,0 -8.6408006,3.74862 -9.3022976,8.79321 l -10.302061,78.60634 -55.519369,0 c -2.828901,0 -5.507461,1.3902 -7.291498,3.78276 -1.784036,2.39256 -2.484371,5.53485 -1.905561,8.55423 l 10.037712,52.36872 c 0.005,0.03 0.01127,0.0587 0.01629,0.0888 l 15.294602,79.79576 c 4.523986,23.6047 23.865249,40.73775 45.987804,40.73775 l 390.885686,0 c 20.51266,0 39.30894,-11.27864 50.28127,-30.16924 l 80.98574,-139.43642 c 1.8329,-3.15458 1.9444,-7.14628 0.29316,-10.4183 z M 86.314267,130.24522 l 2.32276,13.21236 c -0.0927,-0.003 -0.18417,-0.015 -0.27813,-0.015 l -58.423446,0 c -0.79179,0 -1.55728,0.1188 -2.29269,0.31955 l -2.37663,-13.51689 61.048136,0 z m -55.125986,33.68161 57.170616,0 c 1.3255,0 2.5846,-0.30181 3.72843,-0.84259 l 6.66133,37.8918 -61.045636,0 -6.51474,-37.04921 z M 405.58667,432.57529 c -7.50699,12.92558 -20.36734,20.64132 -34.40284,20.64132 l -390.885693,0 c -13.273785,0 -24.877539,-10.27901 -27.592432,-24.44183 l -12.933013,-67.47655 475.033588,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -478.961225,0 -6.125109,-31.95546 52.100385,0 c 0.0063,0 0.01127,0.001 0.01754,0.001 0.0088,0 0.01754,-0.001 0.02631,-0.001 l 312.793999,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -301.9970694,0 8.769842,-66.91528 28.3604184,0 c 0.0175,0 0.0351,0 0.0514,0 l 80.222769,0 c 0.0138,0 0.0276,0.001 0.0413,0.001 0.0125,0 0.0263,-0.001 0.0388,-0.001 l 48.08004,0 c 5.18924,0 9.39626,-4.58575 9.39626,-10.24214 l 0,-24.71769 102.37163,0 c 6.27294,0 11.92323,4.06135 14.39382,10.34593 l 8.40777,21.38421 -87.87633,0 c -8.11085,0 -14.08312,8.27155 -12.17755,16.86402 l 3.34005,15.0614 c 1.35933,6.13026 6.39197,10.44834 12.17756,10.44834 l 101.19647,0 16.49607,41.95588 c 0.17665,0.46022 0.38963,0.89858 0.62391,1.32192 0.0476,0.086 0.094,0.17343 0.14408,0.25674 0.21549,0.36598 0.44851,0.71968 0.70534,1.05289 0.0601,0.0778 0.12529,0.14748 0.18668,0.22396 0.21423,0.2622 0.43974,0.51074 0.67653,0.74699 0.0814,0.0806 0.15911,0.16388 0.24305,0.24035 0.29567,0.27586 0.60637,0.53259 0.93211,0.76748 0.0601,0.0423 0.12152,0.0792 0.18166,0.12017 0.29817,0.20348 0.60888,0.3892 0.92835,0.55581 0.0677,0.0355 0.13405,0.0724 0.2017,0.10652 0.3721,0.18299 0.75546,0.34277 1.15261,0.4725 0.0414,0.0137 0.0827,0.0218 0.12403,0.0341 0.34203,0.10652 0.69282,0.18846 1.04863,0.25264 0.10774,0.0191 0.21423,0.0382 0.32197,0.0533 0.36458,0.0505 0.73291,0.0833 1.10876,0.0874 0.0326,0 0.0651,0.008 0.099,0.008 0.0163,0 0.0326,-0.003 0.0489,-0.003 l 142.76176,0 -71.85382,123.71816 z"
+       id="path5927" />
+    <g
+       style="fill:#008000"
+       id="g5929" />
+    <g
+       style="fill:#008000"
+       id="g5931" />
+    <g
+       style="fill:#008000"
+       id="g5933" />
+    <g
+       style="fill:#008000"
+       id="g5935" />
+    <g
+       style="fill:#008000"
+       id="g5937" />
+    <g
+       style="fill:#008000"
+       id="g5939" />
+    <g
+       style="fill:#008000"
+       id="g5941" />
+    <g
+       style="fill:#008000"
+       id="g5943" />
+    <g
+       style="fill:#008000"
+       id="g5945" />
+    <g
+       style="fill:#008000"
+       id="g5947" />
+    <g
+       style="fill:#008000"
+       id="g5949" />
+    <g
+       style="fill:#008000"
+       id="g5951" />
+    <g
+       style="fill:#008000"
+       id="g5953" />
+    <g
+       style="fill:#008000"
+       id="g5955" />
+    <g
+       style="fill:#008000"
+       id="g5957" />
+    <path
+       id="path5959"
+       d="m 502.74274,293.67829 c -1.65123,-3.27202 -4.80587,-5.3027 -8.23112,-5.3027 l -153.69024,0 -39.15986,-99.59998 c -5.43855,-13.82688 -17.86793,-22.76076 -31.66665,-22.76076 l -38.22774,0 0,-54.66978 c 0,-5.65639 -4.20577,-10.24214 -9.39626,-10.24214 -5.1905,0 -9.39626,4.58575 -9.39626,10.24214 l 0,54.66978 -54.74763,0 c -5.18924,0 -9.39626,4.58575 -9.39626,10.24214 l 0,24.71769 -30.94627,0 -14.57548,-82.90121 c -0.84817,-4.82609 -4.720683,-8.31388 -9.228383,-8.31388 l -80.181426,0 c -2.80134,0 -5.4573464,1.36288 -7.2426354,3.71721 -1.785289,2.35432 -2.513186,5.45428 -1.985743,8.45317 l 13.8964384,79.04471 -25.2859584,0 c -4.6755786,0 -8.6408006,3.74862 -9.3022976,8.79321 l -10.302061,78.60634 -55.519369,0 c -2.828901,0 -5.507461,1.3902 -7.291498,3.78276 -1.784036,2.39256 -2.484371,5.53485 -1.905561,8.55423 l 10.037712,52.36872 c 0.005,0.03 0.01127,0.0587 0.01629,0.0888 l 15.294602,79.79576 c 4.523986,23.6047 23.865249,40.73775 45.987804,40.73775 l 390.885686,0 c 20.51266,0 39.30894,-11.27864 50.28127,-30.16924 l 80.98574,-139.43642 c 1.8329,-3.15458 1.9444,-7.14628 0.29316,-10.4183 z M 86.314267,130.24522 l 2.32276,13.21236 c -0.0927,-0.003 -0.18417,-0.015 -0.27813,-0.015 l -58.423446,0 c -0.79179,0 -1.55728,0.1188 -2.29269,0.31955 l -2.37663,-13.51689 61.048136,0 z m -55.125986,33.68161 57.170616,0 c 1.3255,0 2.5846,-0.30181 3.72843,-0.84259 l 6.66133,37.8918 -61.045636,0 -6.51474,-37.04921 z M 405.58667,432.57529 c -7.50699,12.92558 -20.36734,20.64132 -34.40284,20.64132 l -390.885693,0 c -13.273785,0 -24.877539,-10.27901 -27.592432,-24.44183 l -12.933013,-67.47655 475.033588,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -478.961225,0 -6.125109,-31.95546 52.100385,0 c 0.0063,0 0.01127,0.001 0.01754,0.001 0.0088,0 0.01754,-0.001 0.02631,-0.001 l 312.793999,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -301.9970694,0 8.769842,-66.91528 28.3604184,0 c 0.0175,0 0.0351,0 0.0514,0 l 80.222769,0 c 0.0138,0 0.0276,0.001 0.0413,0.001 0.0125,0 0.0263,-0.001 0.0388,-0.001 l 48.08004,0 c 5.18924,0 9.39626,-4.58575 9.39626,-10.24214 l 0,-24.71769 102.37163,0 c 6.27294,0 11.92323,4.06135 14.39382,10.34593 l 8.40777,21.38421 -87.87633,0 c -8.11085,0 -14.08312,8.27155 -12.17755,16.86402 l 3.34005,15.0614 c 1.35933,6.13026 6.39197,10.44834 12.17756,10.44834 l 101.19647,0 16.49607,41.95588 c 0.17665,0.46022 0.38963,0.89858 0.62391,1.32192 0.0476,0.086 0.094,0.17343 0.14408,0.25674 0.21549,0.36598 0.44851,0.71968 0.70534,1.05289 0.0601,0.0778 0.12529,0.14748 0.18668,0.22396 0.21423,0.2622 0.43974,0.51074 0.67653,0.74699 0.0814,0.0806 0.15911,0.16388 0.24305,0.24035 0.29567,0.27586 0.60637,0.53259 0.93211,0.76748 0.0601,0.0423 0.12152,0.0792 0.18166,0.12017 0.29817,0.20348 0.60888,0.3892 0.92835,0.55581 0.0677,0.0355 0.13405,0.0724 0.2017,0.10652 0.3721,0.18299 0.75546,0.34277 1.15261,0.4725 0.0414,0.0137 0.0827,0.0218 0.12403,0.0341 0.34203,0.10652 0.69282,0.18846 1.04863,0.25264 0.10774,0.0191 0.21423,0.0382 0.32197,0.0533 0.36458,0.0505 0.73291,0.0833 1.10876,0.0874 0.0326,0 0.0651,0.008 0.099,0.008 0.0163,0 0.0326,-0.003 0.0489,-0.003 l 142.76176,0 -71.85382,123.71816 z"
+       inkscape:connector-curvature="0"
+       style="stroke:#008000;stroke-width:15.1818819" />
+  </g>
+  <g
+     id="g5961"
+     transform="matrix(0.06576368,0,0,0.06597246,1242.461,1250.634)"
+     style="fill:#008000">
+    <path
+       id="path5963"
+       d="m 502.74274,293.67829 c -1.65123,-3.27202 -4.80587,-5.3027 -8.23112,-5.3027 l -153.69024,0 -39.15986,-99.59998 c -5.43855,-13.82688 -17.86793,-22.76076 -31.66665,-22.76076 l -38.22774,0 0,-54.66978 c 0,-5.65639 -4.20577,-10.24214 -9.39626,-10.24214 -5.1905,0 -9.39626,4.58575 -9.39626,10.24214 l 0,54.66978 -54.74763,0 c -5.18924,0 -9.39626,4.58575 -9.39626,10.24214 l 0,24.71769 -30.94627,0 -14.57548,-82.90121 c -0.84817,-4.82609 -4.720683,-8.31388 -9.228383,-8.31388 l -80.181426,0 c -2.80134,0 -5.4573464,1.36288 -7.2426354,3.71721 -1.785289,2.35432 -2.513186,5.45428 -1.985743,8.45317 l 13.8964384,79.04471 -25.2859584,0 c -4.6755786,0 -8.6408006,3.74862 -9.3022976,8.79321 l -10.302061,78.60634 -55.519369,0 c -2.828901,0 -5.507461,1.3902 -7.291498,3.78276 -1.784036,2.39256 -2.484371,5.53485 -1.905561,8.55423 l 10.037712,52.36872 c 0.005,0.03 0.01127,0.0587 0.01629,0.0888 l 15.294602,79.79576 c 4.523986,23.6047 23.865249,40.73775 45.987804,40.73775 l 390.885686,0 c 20.51266,0 39.30894,-11.27864 50.28127,-30.16924 l 80.98574,-139.43642 c 1.8329,-3.15458 1.9444,-7.14628 0.29316,-10.4183 z M 86.314267,130.24522 l 2.32276,13.21236 c -0.0927,-0.003 -0.18417,-0.015 -0.27813,-0.015 l -58.423446,0 c -0.79179,0 -1.55728,0.1188 -2.29269,0.31955 l -2.37663,-13.51689 61.048136,0 z m -55.125986,33.68161 57.170616,0 c 1.3255,0 2.5846,-0.30181 3.72843,-0.84259 l 6.66133,37.8918 -61.045636,0 -6.51474,-37.04921 z M 405.58667,432.57529 c -7.50699,12.92558 -20.36734,20.64132 -34.40284,20.64132 l -390.885693,0 c -13.273785,0 -24.877539,-10.27901 -27.592432,-24.44183 l -12.933013,-67.47655 475.033588,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -478.961225,0 -6.125109,-31.95546 52.100385,0 c 0.0063,0 0.01127,0.001 0.01754,0.001 0.0088,0 0.01754,-0.001 0.02631,-0.001 l 312.793999,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -301.9970694,0 8.769842,-66.91528 28.3604184,0 c 0.0175,0 0.0351,0 0.0514,0 l 80.222769,0 c 0.0138,0 0.0276,0.001 0.0413,0.001 0.0125,0 0.0263,-0.001 0.0388,-0.001 l 48.08004,0 c 5.18924,0 9.39626,-4.58575 9.39626,-10.24214 l 0,-24.71769 102.37163,0 c 6.27294,0 11.92323,4.06135 14.39382,10.34593 l 8.40777,21.38421 -87.87633,0 c -8.11085,0 -14.08312,8.27155 -12.17755,16.86402 l 3.34005,15.0614 c 1.35933,6.13026 6.39197,10.44834 12.17756,10.44834 l 101.19647,0 16.49607,41.95588 c 0.17665,0.46022 0.38963,0.89858 0.62391,1.32192 0.0476,0.086 0.094,0.17343 0.14408,0.25674 0.21549,0.36598 0.44851,0.71968 0.70534,1.05289 0.0601,0.0778 0.12529,0.14748 0.18668,0.22396 0.21423,0.2622 0.43974,0.51074 0.67653,0.74699 0.0814,0.0806 0.15911,0.16388 0.24305,0.24035 0.29567,0.27586 0.60637,0.53259 0.93211,0.76748 0.0601,0.0423 0.12152,0.0792 0.18166,0.12017 0.29817,0.20348 0.60888,0.3892 0.92835,0.55581 0.0677,0.0355 0.13405,0.0724 0.2017,0.10652 0.3721,0.18299 0.75546,0.34277 1.15261,0.4725 0.0414,0.0137 0.0827,0.0218 0.12403,0.0341 0.34203,0.10652 0.69282,0.18846 1.04863,0.25264 0.10774,0.0191 0.21423,0.0382 0.32197,0.0533 0.36458,0.0505 0.73291,0.0833 1.10876,0.0874 0.0326,0 0.0651,0.008 0.099,0.008 0.0163,0 0.0326,-0.003 0.0489,-0.003 l 142.76176,0 -71.85382,123.71816 z"
+       inkscape:connector-curvature="0"
+       style="stroke:#008000;stroke-width:15.1818819" />
+    <g
+       id="g5965"
+       style="fill:#008000" />
+    <g
+       id="g5967"
+       style="fill:#008000" />
+    <g
+       id="g5969"
+       style="fill:#008000" />
+    <g
+       id="g5971"
+       style="fill:#008000" />
+    <g
+       id="g5973"
+       style="fill:#008000" />
+    <g
+       id="g5975"
+       style="fill:#008000" />
+    <g
+       id="g5977"
+       style="fill:#008000" />
+    <g
+       id="g5979"
+       style="fill:#008000" />
+    <g
+       id="g5981"
+       style="fill:#008000" />
+    <g
+       id="g5983"
+       style="fill:#008000" />
+    <g
+       id="g5985"
+       style="fill:#008000" />
+    <g
+       id="g5987"
+       style="fill:#008000" />
+    <g
+       id="g5989"
+       style="fill:#008000" />
+    <g
+       id="g5991"
+       style="fill:#008000" />
+    <g
+       id="g5993"
+       style="fill:#008000" />
+    <path
+       style="stroke:#008000;stroke-width:15.1818819"
+       inkscape:connector-curvature="0"
+       d="m 502.74274,293.67829 c -1.65123,-3.27202 -4.80587,-5.3027 -8.23112,-5.3027 l -153.69024,0 -39.15986,-99.59998 c -5.43855,-13.82688 -17.86793,-22.76076 -31.66665,-22.76076 l -38.22774,0 0,-54.66978 c 0,-5.65639 -4.20577,-10.24214 -9.39626,-10.24214 -5.1905,0 -9.39626,4.58575 -9.39626,10.24214 l 0,54.66978 -54.74763,0 c -5.18924,0 -9.39626,4.58575 -9.39626,10.24214 l 0,24.71769 -30.94627,0 -14.57548,-82.90121 c -0.84817,-4.82609 -4.720683,-8.31388 -9.228383,-8.31388 l -80.181426,0 c -2.80134,0 -5.4573464,1.36288 -7.2426354,3.71721 -1.785289,2.35432 -2.513186,5.45428 -1.985743,8.45317 l 13.8964384,79.04471 -25.2859584,0 c -4.6755786,0 -8.6408006,3.74862 -9.3022976,8.79321 l -10.302061,78.60634 -55.519369,0 c -2.828901,0 -5.507461,1.3902 -7.291498,3.78276 -1.784036,2.39256 -2.484371,5.53485 -1.905561,8.55423 l 10.037712,52.36872 c 0.005,0.03 0.01127,0.0587 0.01629,0.0888 l 15.294602,79.79576 c 4.523986,23.6047 23.865249,40.73775 45.987804,40.73775 l 390.885686,0 c 20.51266,0 39.30894,-11.27864 50.28127,-30.16924 l 80.98574,-139.43642 c 1.8329,-3.15458 1.9444,-7.14628 0.29316,-10.4183 z M 86.314267,130.24522 l 2.32276,13.21236 c -0.0927,-0.003 -0.18417,-0.015 -0.27813,-0.015 l -58.423446,0 c -0.79179,0 -1.55728,0.1188 -2.29269,0.31955 l -2.37663,-13.51689 61.048136,0 z m -55.125986,33.68161 57.170616,0 c 1.3255,0 2.5846,-0.30181 3.72843,-0.84259 l 6.66133,37.8918 -61.045636,0 -6.51474,-37.04921 z M 405.58667,432.57529 c -7.50699,12.92558 -20.36734,20.64132 -34.40284,20.64132 l -390.885693,0 c -13.273785,0 -24.877539,-10.27901 -27.592432,-24.44183 l -12.933013,-67.47655 475.033588,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -478.961225,0 -6.125109,-31.95546 52.100385,0 c 0.0063,0 0.01127,0.001 0.01754,0.001 0.0088,0 0.01754,-0.001 0.02631,-0.001 l 312.793999,0 c 5.19049,0 9.39626,-4.58575 9.39626,-10.24214 0,-5.65639 -4.20577,-10.24213 -9.39626,-10.24213 l -301.9970694,0 8.769842,-66.91528 28.3604184,0 c 0.0175,0 0.0351,0 0.0514,0 l 80.222769,0 c 0.0138,0 0.0276,0.001 0.0413,0.001 0.0125,0 0.0263,-0.001 0.0388,-0.001 l 48.08004,0 c 5.18924,0 9.39626,-4.58575 9.39626,-10.24214 l 0,-24.71769 102.37163,0 c 6.27294,0 11.92323,4.06135 14.39382,10.34593 l 8.40777,21.38421 -87.87633,0 c -8.11085,0 -14.08312,8.27155 -12.17755,16.86402 l 3.34005,15.0614 c 1.35933,6.13026 6.39197,10.44834 12.17756,10.44834 l 101.19647,0 16.49607,41.95588 c 0.17665,0.46022 0.38963,0.89858 0.62391,1.32192 0.0476,0.086 0.094,0.17343 0.14408,0.25674 0.21549,0.36598 0.44851,0.71968 0.70534,1.05289 0.0601,0.0778 0.12529,0.14748 0.18668,0.22396 0.21423,0.2622 0.43974,0.51074 0.67653,0.74699 0.0814,0.0806 0.15911,0.16388 0.24305,0.24035 0.29567,0.27586 0.60637,0.53259 0.93211,0.76748 0.0601,0.0423 0.12152,0.0792 0.18166,0.12017 0.29817,0.20348 0.60888,0.3892 0.92835,0.55581 0.0677,0.0355 0.13405,0.0724 0.2017,0.10652 0.3721,0.18299 0.75546,0.34277 1.15261,0.4725 0.0414,0.0137 0.0827,0.0218 0.12403,0.0341 0.34203,0.10652 0.69282,0.18846 1.04863,0.25264 0.10774,0.0191 0.21423,0.0382 0.32197,0.0533 0.36458,0.0505 0.73291,0.0833 1.10876,0.0874 0.0326,0 0.0651,0.008 0.099,0.008 0.0163,0 0.0326,-0.003 0.0489,-0.003 l 142.76176,0 -71.85382,123.71816 z"
+       id="path5995" />
+  </g>
+  <text
+     sodipodi:linespacing="125%"
+     id="text13396"
+     y="1965.6702"
+     x="1074.5895"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-weight:bold;fill:#a05a2c"
+       id="tspan13400"
+       y="1965.6702"
+       x="1074.5895"
+       sodipodi:role="line">Rendőrség</tspan></text>
+  <path
+     id="path13444"
+     d="m 1083.6869,1941.2407 c 1.8643,-1.6745 2.6873,-3.8221 2.2756,-5.9724 0.787,-0.8807 1.268,-1.9159 1.3465,-3.0215 l 1.5742,-1.9646 c 0.4501,-0.5614 0.1551,-1.284 -0.64,-1.5743 l -12.1111,-4.4248 c -0.4333,-0.1582 -0.9436,-0.1582 -1.3768,0 l -12.1109,4.4248 c -0.795,0.2903 -1.0903,1.0126 -0.6402,1.5745 l 1.5739,1.9642 c 0.078,1.1071 0.5589,2.1436 1.3462,3.0252 -0.4181,2.1904 0.4491,4.3275 2.2764,5.9689 -5.0681,2.1041 -8.4352,6.0865 -8.4352,10.5962 0,0.6214 0.6891,1.1249 1.5395,1.1249 l 30.2773,0 c 0.8504,0 1.5395,-0.5035 1.5395,-1.1249 0,-4.5035 -3.3598,-8.489 -8.4349,-10.5962 z m -3.7639,-5.5249 c -2.9829,0.3915 -6.003,0.3913 -8.9766,0 -1.9706,-0.2598 -3.5172,-1.3117 -4.0755,-2.664 l 17.1444,0 c -0.5536,1.3337 -2.0877,2.4016 -4.0923,2.6647 z m -9.523,2.2135 c 3.3314,0.439 6.718,0.4403 10.0674,0 0.8573,-0.1125 1.6634,-0.3188 2.4014,-0.6022 -0.633,2.575 -3.7217,4.5349 -7.425,4.5349 -3.7014,0 -6.7886,-1.9579 -7.424,-4.5308 0.7319,0.2807 1.5308,0.4853 2.3802,0.5972 z m 8.1371,5.8472 -3.0665,2.0979 -3.0785,-2.0886 c 1.98,0.4347 4.1281,0.4403 6.145,-0.011 z m -3.0933,-17.2295 9.9513,3.6357 -0.4959,0.6186 -18.9111,0 -0.4959,-0.6186 z m -13.5133,24.1651 c 0.4442,-2.8855 2.5971,-5.4373 5.7648,-7.0427 l 6.7321,4.5672 c 0.5924,0.4018 1.5095,0.4008 2.0998,-0.011 l 6.669,-4.562 c 3.0941,1.5694 5.3071,4.0938 5.7606,7.0407 z m 0,0"
+     inkscape:connector-curvature="0"
+     style="fill:#a05a2c" />
+  <rect
+     ry="19.665676"
+     y="1870.8418"
+     x="976.52948"
+     height="50.317032"
+     width="87.005295"
+     id="rect13453"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.62655604;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1018.5895"
+     y="1913.6702"
+     id="text13455"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="1018.5895"
+       y="1913.6702"
+       id="tspan13457"
+       style="font-weight:bold;fill:#a05a2c">HÉV v.á.</tspan></text>
+  <g
+     id="g13522"
+     transform="matrix(0.07471583,0,0,0.04672897,997.771,1872.3577)"
+     style="fill:#a05a2c">
+    <g
+       id="g13481"
+       style="fill:#a05a2c">
+      <g
+         id="Layer_1_79_"
+         style="fill:#a05a2c">
+        <path
+           id="path13484"
+           d="m 367.837,89.25 -54.824,0 0,-51 121.125,0 c 6.375,0 12.75,6.375 12.75,12.75 0,10.2 8.926,19.125 19.125,19.125 10.199,0 19.125,-8.925 19.125,-19.125 0,-28.05 -22.949,-51 -51,-51 l -280.5,0 c -28.05,0 -51,22.95 -51,51 0,10.2 8.925,19.125 19.125,19.125 10.2,0 19.125,-8.925 19.125,-19.125 0,-7.65 5.1,-12.75 12.75,-12.75 l 121.125,0 0,49.725 -54.825,0 c -62.475,0 -112.2,51 -112.2,112.2 l 0,229.501 c 0,25.5 17.85,47.174 43.35,51 l -36.975,70.125 c -6.375,12.75 -1.275,28.049 10.2,34.424 3.825,2.551 7.65,2.551 11.475,2.551 8.925,0 17.85,-5.1 22.95,-14.025 l 7.65,-15.301 252.449,0 7.65,15.301 c 5.1,8.926 14.025,14.025 22.951,14.025 3.824,0 7.648,-1.275 11.475,-2.551 12.75,-6.375 17.85,-21.674 10.199,-34.424 l -36.975,-70.125 c 24.225,-3.826 43.35,-25.5 43.35,-51 l 0,-228.226 c 2.551,-62.475 -48.449,-112.2 -109.65,-112.2 z m 30.601,346.801 c -20.4,0 -36.977,-16.576 -36.977,-36.977 0,-20.398 16.576,-36.975 36.977,-36.975 20.398,0 36.975,16.576 36.975,36.975 0,20.401 -16.576,36.977 -36.975,36.977 z m -244.8,-220.576 c 0,-39.525 31.875,-70.125 71.4,-70.125 l 140.25,0 c 39.525,0 71.4,31.875 71.4,70.125 l 0,62.475 c 0,14.025 -11.477,24.226 -25.5,24.226 l -233.325,0 c -14.025,0 -25.5,-10.201 -25.5,-24.226 1.275,0 1.275,-62.475 1.275,-62.475 z m 35.699,145.349 c 20.4,0 36.975,16.576 36.975,36.977 0,20.398 -16.575,36.975 -36.975,36.975 -20.4,0 -36.975,-16.576 -36.975,-36.975 0.001,-20.401 16.576,-36.977 36.975,-36.977 z m -2.549,161.926 20.4,-39.525 172.126,0 20.398,39.525 -212.924,0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#a05a2c" />
+      </g>
+    </g>
+    <g
+       id="g13486"
+       style="fill:#a05a2c" />
+    <g
+       id="g13488"
+       style="fill:#a05a2c" />
+    <g
+       id="g13490"
+       style="fill:#a05a2c" />
+    <g
+       id="g13492"
+       style="fill:#a05a2c" />
+    <g
+       id="g13494"
+       style="fill:#a05a2c" />
+    <g
+       id="g13496"
+       style="fill:#a05a2c" />
+    <g
+       id="g13498"
+       style="fill:#a05a2c" />
+    <g
+       id="g13500"
+       style="fill:#a05a2c" />
+    <g
+       id="g13502"
+       style="fill:#a05a2c" />
+    <g
+       id="g13504"
+       style="fill:#a05a2c" />
+    <g
+       id="g13506"
+       style="fill:#a05a2c" />
+    <g
+       id="g13508"
+       style="fill:#a05a2c" />
+    <g
+       id="g13510"
+       style="fill:#a05a2c" />
+    <g
+       id="g13512"
+       style="fill:#a05a2c" />
+    <g
+       id="g13514"
+       style="fill:#a05a2c" />
+  </g>
+  <path
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.62655604;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 1046.1811,1712.3719 33.3158,0 c 10.5245,0 18.9972,9.5917 18.9972,21.506 l 0,12.0137 -71.3103,0 0,-12.0137 c 0,-11.9143 8.4728,-21.506 18.9973,-21.506 z"
+     id="rect13542"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssccss" />
+  <g
+     id="g13578"
+     transform="matrix(-0.06842457,0,0,0.06675568,1093.6695,1709.9483)"
+     style="fill:#784421">
+    <path
+       id="path13566"
+       d="M 509.08203,173.1875 420,83.867188 420,51 l 13,0 c 5.52344,0 10,-4.476562 10,-10 0,-5.523438 -4.47656,-10 -10,-10 l -13,0 0,-21 C 420,4.476562 415.52344,0 410,0 404.47656,0 400,4.476562 400,10 l 0,21 -13,0 c -5.52344,0 -10,4.476562 -10,10 0,5.523438 4.47656,10 10,10 l 13,0 0,32.867188 -89.08203,89.320312 C 309.05078,175.0625 308,177.60156 308,180.25 l 0,119.75 -273.859375,0 33.9375,-33.9375 159.921875,0 c 5.52344,0 10,-4.47656 10,-10 0,-5.52344 -4.47656,-10 -10,-10 l -164.0625,0 c -2.652344,0 -5.195312,1.05469 -7.070312,2.92969 l -53.9375,53.9375 C 1.117188,304.73828 0,307.23828 0,310 l 0,192 c 0,5.52344 4.476562,10 10,10 l 492,0 c 5.52344,0 10,-4.47656 10,-10 l 0,-321.75 c 0,-2.64844 -1.05078,-5.1875 -2.91797,-7.0625 z M 410,102.16016 l 82,82.22265 0,30.04688 -74.91797,-75.125 c -1.8789,-1.87891 -4.42578,-2.9375 -7.08203,-2.9375 -2.65625,0 -5.20312,1.05859 -7.08203,2.9375 L 328,214.42969 328,184.38281 Z M 20,320 l 288,0 0,172 -24,0 0,-97.77734 c 0,-18.7461 -15.25391,-34 -34,-34 -18.74609,0 -34,15.2539 -34,34 L 216,492 l -20,0 0,-97.77734 c 0,-18.7461 -15.25391,-34 -34,-34 -18.74609,0 -34,15.2539 -34,34 L 128,492 l -20,0 0,-97.77734 c 0,-18.7461 -15.253906,-34 -34,-34 -18.746094,0 -34,15.2539 -34,34 L 40,492 20,492 Z m 40,172 0,-97.77734 c 0,-7.71875 6.28125,-14 14,-14 7.71875,0 14,6.28125 14,14 L 88,492 Z m 88,0 0,-97.77734 c 0,-7.71875 6.28125,-14 14,-14 7.71875,0 14,6.28125 14,14 L 176,492 Z m 88,0 0,-97.77734 c 0,-7.71875 6.28125,-14 14,-14 7.71875,0 14,6.28125 14,14 L 264,492 Z m 148,0 0,-129 c 0,-14.33594 11.66406,-26 26,-26 14.33594,0 26,11.66406 26,26 l 0,129 z m 72,0 0,-129 c 0,-25.36328 -20.63672,-46 -46,-46 -25.36328,0 -46,20.63672 -46,46 l 0,129 -36,0 0,-249.25 82,-82.22266 82,82.22266 0,249.25 z m 0,0"
+       inkscape:connector-curvature="0"
+       style="fill:#784421" />
+    <path
+       id="path13568"
+       d="m 410,219 c -20.40234,0 -37,16.59766 -37,37 0,20.40234 16.59766,37 37,37 20.40234,0 37,-16.59766 37,-37 0,-20.40234 -16.59766,-37 -37,-37 z m 0,54 c -9.375,0 -17,-7.625 -17,-17 0,-9.375 7.625,-17 17,-17 9.375,0 17,7.625 17,17 0,9.375 -7.625,17 -17,17 z m 0,0"
+       inkscape:connector-curvature="0"
+       style="fill:#784421" />
+    <path
+       id="path13570"
+       d="m 273,266 c 2.62891,0 5.21094,-1.07031 7.07031,-2.92969 C 281.92969,261.21094 283,258.62891 283,256 c 0,-2.64063 -1.07031,-5.21094 -2.92969,-7.07031 C 278.21094,247.07031 275.62891,246 273,246 c -2.62891,0 -5.21094,1.07031 -7.07031,2.92969 C 264.07031,250.78906 263,253.35937 263,256 c 0,2.62891 1.07031,5.21094 2.92969,7.07031 C 267.78906,264.92969 270.37109,266 273,266 Z m 0,0"
+       inkscape:connector-curvature="0"
+       style="fill:#784421" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1043.7579"
+     y="1728.3258"
+     id="text13583"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan13585"
+       x="1043.7579"
+       y="1728.3258"
+       style="fill:#784421;font-weight:bold">Fő</tspan><tspan
+       sodipodi:role="line"
+       x="1043.7579"
+       y="1743.9508"
+       id="tspan13587"
+       style="fill:#784421;font-weight:bold">tér</tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Geolayer"
+     style="display:inline"
+     transform="matrix(11739.788,0,0,-17287.123,-222868.38,825787.29)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008000;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.077598,47.668287 4.66e-4,7.91e-4 0.0023,0.0033 -5.24e-4,0.0055 5.82e-4,0.0026 5.82e-4,0.0014 0.001,8.7e-4 4.66e-4,-1.19e-4 0.0011,5.53e-4 0.0014,8.31e-4 0.0012,8.7e-4 6.41e-4,6.32e-4 1.16e-4,7.91e-4 5.24e-4,0.0011 -4.07e-4,9.89e-4 2.33e-4,2.76e-4 -2.33e-4,0.0011 0,0.0013 0.0012,0.0014 5.83e-4,0.0011 1.16e-4,8.3e-4"
+       id="path3728"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008000;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.082373,47.669078 0.0022,0.0018 0.0018,-5.93e-4 2.91e-4,0.0012 0.0037,0.0038 0.0029,0.0026 c 0,0 0.0027,0.0032 0.0027,0.0034 0,1.58e-4 0.0021,0.0042 0.0021,0.0042 l 7.57e-4,0.0014 0.002,0.0012 3.49e-4,9.89e-4 -3.49e-4,0.0015 2.91e-4,0.0011 -6.4e-4,3.96e-4 -0.0027,3.56e-4 -0.0051,3.55e-4 -1.74e-4,0.0017 0,4.75e-4"
+       id="path3730-b"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000080;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.071641,47.673305 -0.0011540242,0.0020152399 -0.0013188824,0.0036945998 0,0.00095164477 -0.004286372,0.0011755513 -0.0025553365,0.00089566669 -0.0042863712,0.003022857 -0.0033796393,0.0025750265 -0.0038742198,0.0022951303 -0.001483744,0.00061577048 -0.0042039412,0.00033587428 -0.0012364525,0.00067174278 0.00049458047,0.0022391523 -0.0014837431,0.0016233876 -0.0013188841,0.00067174857 0.0015661748,0.0013994694 8.2429936E-05,0.00078370473 0.0003297206,0.00011195617 0.0018134646,-0.00044783045 -0.00041215053,0.0016793656 -0.001401314,0.0018473057 -0.00041215053,0.0013994694 -0.002143186,0.0006157647 -0.00016486072,0.00033587428 0.00098916265,-0.00039185237 8.2430788E-05,0.00044783045 -0.00057701211,0.00067174857 -0.00098916265,0.0012315352 0.00032972145,0.00083968282 0.00090673186,0.00067174278 0.00049458132,-0.00011195617 0.00016486072,0.00016794003 -0.00049458132,0.00055978662 0,0.00044783045 0.0013188832,0.0008956609 -8.2429936E-05,0.0013434914 -0.00090673271,0.00072772376 -0.00074187198,0.0017353437 -0.00098916265,0.0021271967 8.2430788E-05,0.0016793651 0,0.0014554504 0.00024729066,0.00044783045 0.00082430192,0.00044783103 0,0.00033587313 -0.0013188832,0.00022391522 -0.0016486047,0.00044783103 -0.0019783253,0.001791323 -0.0013188832,0.0014554504 -0.00090673186,0.0019592595 8.2429936E-05,0.0016793656 0.00082430192,0.0020712174 0.00057701126,0.0012315352 8.2430788E-05,0.00072772492 -0.0017310346,0 -0.0012364533,0.00083968282 -0.002143186,0 -0.0028026272,0.00072772492 -0.0016486038,0.00089566148 -0.001483744,0.00095164072 -0.0017310346,0.0010076194 -0.0016486047,0.00083968282 -0.0016486038,-0.00027989447 -0.0020607552,0.00044783103 -0.00074187198,0 -0.00065944205,-0.00039185237 -0.00090673186,0.0001119579 -0.0011540234,0.00078370415 -0.0013188832,0.00067174625 -0.00082430277,0.00061576701"
+       id="path4644"
+       inkscape:connector-curvature="0"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#005522;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5999)"
+       d="m 19.089025,47.694443 0.00023785778,0.0022614521 -7.9285927E-05,0.0025306756 -0.00015857185,0.0017768544 -0.00039642964,0.0016691673 -0.00087215372,0.0023153014 -0.00071358187,0.002961424 0.00023785778,0.002153765 0.0020614597,0.0028537386 0.0014271552,0.0017768561 0,0.0024768303 0,0.0020460767 -0.0012685834,0.0016691684 -0.00012173984,0.0014665783 0.0012572629,0.0023640493 -0.0015007426,0.000569108 -0.00012173133,0.0014665783 0.0015240905,0.0068028047 -0.0026129177,0.0056712115 -0.0015212114,0.0052810078 -0.0072912218,0.0078001702 0.0063264599,0.0029226124 0.0012701081,0.0001911793 -0.00024810499,0.0016075781 -0.00012777914,0.00054530589 -0.0017321011,0.0024519488 0.0019979577,0.0062107588"
+       id="path5997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#16502d;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.101314,47.691697 0.0016650215,0.001130726 0.00095143965,0.0015076367 -0.00050557982,0.0029302505 0.0033451285,0.0065044427 -0.00071838604,0.0063413849 -0.0018088231,0.0058014125 0.00011266813,0.0041780405 -0.0007020314,0.0055553183 -0.0027522302,0.0032306481 c 0,0 0.002149664,0.0029303153 0.001896133,0.0043794598 -0.00047889279,0.0027372924 -0.0048988277,0.010784759 -0.0055282769,0.011707515 -0.0023650682,0.0034671079 -0.0026747672,0.005031046 -0.0044780194,0.0068751556 -0.0018032523,0.0018441102 -0.0050476038,0.0012446606 -0.0061771472,0.0036242376"
+       id="path6057"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccsssc"/>
+    <path
+       style="fill:#16502d;fill-rule:evenodd;stroke:#000000;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 19.088388,47.753998 0.0027226385,0.0020030401 0.0031764116,0.0015408001 0.00623938,0.0040060802"
+       id="path12889"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"/>
+    <path
+       style="fill:#005522;fill-rule:evenodd;stroke:#005522;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.094813,47.716088 0.0070565242,0.00037690887 0.0025371752,0.000215376"
+       id="path6121"
+       inkscape:connector-curvature="0"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.0003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 24;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 19.067684,47.642124 0.0015661782,0.0029668789 -0.00032972486,0.0025190485 0.00082430788,0.0021271961 0.0018134654,0.0021831742 0.00041214542,0.001119579 0.00090673697,0.0036386217 0.0011540242,0.0013434971 0.0017310278,0.0011755513 0.0006594412,0.00072772665 -0.00032971634,0.0008956609 -0.0006594412,0.0013434914 -0.0006594412,0.00061577048 -0.0016486072,0.0006157647 -0.0011540242,0.00044783045 -0.0006594412,0.00050381432 0.00016486669,0.0014554475 0.00032971634,0.0010076171 -0.00041215394,0.0015674095 0.00032972486,0.0015674095 0.0011540242,0.0012875133 -0.00041215394,0.0013434914 -0.0006594412,0.0017353437 0.00074187028,0.0015674095 0.0044512302,0.00078370473 0.0020607612,0.00083968282 0.0006594412,0.002071218 0.001399923,0.0033167463 0.0027628011,0.0033167463 0.0022517272,0.0033167463 0.0017254059,0.0034094627 0.00053288014,0.0034094627 2.1797667E-05,0.0034094569 -0.0004892848,0.0034094627 -0.00082999793,0.0034094627 -0.00031892398,0.0034094627 0.0010439626,0.003409458 0.0012143234,0.0034094615"
+       id="path4624"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#006680;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.073282,47.66598 -0.0020998249,0.0019292973 -0.0012351926,0.0001957295 -0.00090579998,-8.3883247E-05 -0.00049408046,2.796301E-05 -0.0011116725,0.00055921394 -0.0014822286,2.796301E-05 -0.0004940762,0.00039144744 -0.00069994107,0.0008667897 -0.00037055779,0.00083882669 -0.00069994193,0.00061513996 -0.00057642181,0.00078290067 -0.0004529034,0.00061513996 -0.0009058068,0.00078290645 -0.00065876912,0.00067106019 0,0.00053125671 -0.00098815241,0.00075493766 -0.00082346119,0.00081086946 -0.00065876827,8.3883247E-05 -0.00032938414,0.00064309718 -0.0015234023,-0.00025164974 -0.00041173059,0.00058717695 -0.0035281369,0.0013426237 -0.00068689058,0.00084238425 -0.0023954563,0.00068917773 2.4864162E-05,0.00061771413 -0.0018444353,0.00087811605"
+       id="path5898"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.0003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 19.077715,47.64215 0.0006987264,-0.0013049077 0.0016885995,-0.0015817033 0.0002329088,-0.0014630775 0.0009316352,-0.001700335 0.00151392,-0.0023725579 0.0016885909,-0.0029261492 0.00075696425,-0.0030447866 -0.00087341439,-0.0027679794 0.00034935894,0.00023725174"
+       id="path3770"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5834)"
+       d="m 19.077657,47.666271 0.0014556907,-0.003558834 0.00017467947,-0.00063268481 0,-0.00086993655 0.0010480939,-0.00031633951 0.00029113813,-0.0010676502 -0.00058227626,-0.0010676502 -0.0020961877,-0.0034006642 -0.0019215083,-0.004033349 -0.00075695573,-0.0013049077 -0.00011645866,-0.0013839897 0.00069873492,-0.0028075291 0.0017468203,-0.0030843247 0.0004658176,-0.00031633951 -0.00081517654,-0.00051405315 -0.0020379669,-0.00027679563 -0.0013974613,0.00067222291 -0.00098986453,0.00098856242 -0.0016303701,0.0010281121 -0.0019214997,0.00059313514 -0.0011063232,0.00027680141 -0.0013392337,0 -0.0010480947,0 -0.00017468203,-0.0014630775 -5.8227626E-05,-0.0022934701 0.00087341184,-0.00067222869 0.0010480913,-0.0003954215 0.0016885995,-0.0049032856 0.00058227626,-0.0011862818 c 0,0 5.8229329E-05,-0.0012258199 0.00011645014,-0.0013839897 5.8229329E-05,-0.00015816976 -0.00064049707,-0.0024911838 -0.00064049707,-0.0024911838 l -0.0031442841,-0.0089366346 -0.00011645525,-0.00063267902 -5.8227626E-05,0 -0.00017468203,-0.00090948044 -0.00075695743,-3.9543885E-05 -0.00023290965,-0.00063268481 0.00069872981,-0.0003954215 -0.00046582016,-0.0024516457 -0.0012810044,-0.0032820383 -0.001513914,-0.002965693 -0.0034354206,-0.0062872753 -0.008093617,-0.012258217"
+       id="path4572"
+       inkscape:connector-curvature="0"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008080;stroke-width:0.0003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 19.065371,47.645313 -0.019156836,0.00019771364 -0.00436706,7.908777E-05 -0.013566999,0.0016212472"
+       id="path4574"
+       inkscape:connector-curvature="0"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#aa0000;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 19.084388,47.624958 0.00034935894,0.00023725174 0.002853152,0.0003163453 0.0015139115,-0.00055359704 0.00052404693,-0.001146738 -0.00034936746,-0.0010676502 -0.00064049707,-0.0014235336 -0.0015139115,-0.0013049077 -0.0025620138,-0.0013049077 -0.0022126464,-0.0015026156 -0.0054733781,-0.0066431645 -0.0023290965,-0.0036774598 -0.0030278314,-0.0037170095 -0.0015721408,-0.0028075233 -0.00026202347,-0.003886066 -0.00077310594,-0.0045802243"
+       id="path3770-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008080;stroke-width:0.0004;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5782)"
+       d="m 19.065376,47.61976 0.013998832,-0.0020131864 -0.0031291535,-0.0050329543 -0.0009058085,-0.00022368673 0,-0.0008388209 -0.0013175365,-0.0024605598 -0.00041172804,-0.0015098811 -0.00057642437,-0.00039145323 -0.0011528402,-0.00016776649 -0.0027174255,0.00044737346 -0.00024703171,-0.00044737346 0.0014822243,-0.00078290067 -0.00049407194,0.00039144744 -0.0016469207,-0.0048651879 -0.0009058085,-0.0044178144 -0.00032938584,-0.0026283205 -0.0011528445,-0.0031875345"
+       id="path5379"
+       inkscape:connector-curvature="0"/>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#006680;stroke-width:0.0003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 19.043666,47.691418 -0.00052615685,-3.5731799E-05 0.00036830988,-0.0024654826 -0.0007892357,-0.0006788984 0.0041566397,-0.0030729232 0.0031569411,-0.002965722 -0.0023677062,-7.1463598E-05 0.00015784697,-0.00039304979"
+       id="path5913"
+       inkscape:connector-curvature="0"/>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="BuborekLayer"
+     style="display:inline">
+    <path
+       sodipodi:nodetypes="sssssssccss"
+       inkscape:connector-curvature="0"
+       id="path4646"
+       d="m 834.11123,1057.6761 189.08477,0 c 9.1466,0 16.5102,6.2411 16.5102,13.9934 l 0,35.8961 c 0,7.7524 -7.3636,13.9934 -16.5102,13.9934 l -189.08477,0 c -9.14667,0 -16.51025,-6.241 -16.51025,-13.9934 l -119.87919,43.9575 119.87919,-54.7853 0,-25.0683 c 0,-7.7523 7.36358,-13.9934 16.51025,-13.9934 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#000080;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="928.22729"
+       y="1081.0994"
+       id="text4648"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4650"
+         x="928.22729"
+         y="1081.0994"
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#000080">Pap-rétre vezető erdei út</tspan><tspan
+         sodipodi:role="line"
+         x="928.22729"
+         y="1097.3575"
+         id="tspan4652"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#000080">200m szintkülönbség</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#165016;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1061.9011,759.67616 -219.08477,0 c -9.1466,0 -16.5102,6.2411 -16.5102,13.9934 l 0,35.8961 c 0,7.7524 7.3636,13.9934 16.5102,13.9934 l 219.08477,0 c 9.1467,0 16.5103,-6.241 16.5103,-13.9934 l 151.8791,1.9575 -151.8791,-12.7853 0,-25.0683 c 0,-7.7523 -7.3636,-13.9934 -16.5103,-13.9934 z"
+       id="path6123"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssccss" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6125"
+       y="781.09943"
+       x="952.22729"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#165016;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#165016"
+         y="781.09943"
+         x="952.22729"
+         id="tspan6127"
+         sodipodi:role="line">Sziget &quot;nagy-kör&quot;</tspan><tspan
+         style="font-style:normal;text-align:center;text-anchor:middle;fill:#165016"
+         y="797.35754"
+         x="952.22729"
+         sodipodi:role="line"
+         id="tspan6139">Tahi hídon át v. pócsmegyeri komppal</tspan><tspan
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#165016"
+         y="812.98254"
+         x="952.22729"
+         sodipodi:role="line"
+         id="tspan12209">A szigeten közepes autóforgalom!</tspan></text>
+    <path
+       sodipodi:nodetypes="sssssssccss"
+       inkscape:connector-curvature="0"
+       id="path12223"
+       d="m 1039.9011,267.55906 -95.08477,0 c -9.1466,0 -16.5102,-6.2411 -16.5102,-13.9934 l 0,-35.8961 c 0,-7.7524 7.3636,-13.9934 16.5102,-13.9934 l 95.08477,0 c 9.1467,0 16.5103,6.241 16.5103,13.9934 l 123.2426,-61.32585 -123.2426,72.15365 0,25.0683 c 0,7.7523 -7.3636,13.9934 -16.5103,13.9934 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#165016;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#005522;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="988.16309"
+       y="223.37064"
+       id="text12225"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12227"
+         x="990.55078"
+         y="223.37064"
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#005522">Kisoroszi, </tspan><tspan
+         sodipodi:role="line"
+         x="990.55078"
+         y="242.12064"
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#005522"
+         id="tspan12231">Sziget-csúcs </tspan><tspan
+         sodipodi:role="line"
+         x="988.16309"
+         y="258.37875"
+         style="font-size:12.5px;text-align:center;text-anchor:middle;fill:#005522"
+         id="tspan12233">felé (12 km)</tspan><tspan
+         sodipodi:role="line"
+         x="988.16309"
+         y="274.00375"
+         id="tspan12229" /></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#165016;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1409.7073,278.66634 0,13.0848 c 0,9.1466 -6.2411,16.5102 -13.9934,16.5102 l -77.8961,0 c -7.7524,0 -13.9934,-7.3636 -13.9934,-16.5102 l 0,-13.0848 c 0,-9.1467 6.241,-16.5103 13.9934,-16.5103 l -29.3626,-57.98441 40.1904,57.98441 67.0683,0 c 7.7523,0 13.9934,7.3636 13.9934,16.5103 z"
+       id="path13363"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssccss" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text13365"
+       y="283.32925"
+       x="1355.3724"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#005522;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan13373"
+         y="283.32925"
+         x="1355.3724"
+         sodipodi:role="line"
+         style="font-size:15px">Váci  rév</tspan><tspan
+         y="299.58737"
+         x="1355.3724"
+         sodipodi:role="line"
+         id="tspan13384">felé (4 km)</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1320.6575,2311.2054 159.7291,0 c 8.8875,0 16.0426,6.2411 16.0426,13.9934 l 0,35.8961 c 0,7.7524 -7.1551,13.9934 -16.0426,13.9934 l -159.7291,0 c -8.8876,0 -16.0426,-6.241 -16.0426,-13.9934 l -116.4836,43.9575 116.4836,-54.7853 0,-25.0683 c 0,-7.7523 7.155,-13.9934 16.0426,-13.9934 z"
+       id="rect4576"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssccss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1402.6857"
+       y="2331.6289"
+       id="text4578"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1402.6857"
+         y="2331.6289"
+         id="tspan4582"
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#800000">EuroVelo-6 Szentendre-</tspan><tspan
+         sodipodi:role="line"
+         x="1402.6857"
+         y="2350.3789"
+         id="tspan4590"
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle;fill:#800000">Lupa épülő szakasz</tspan><tspan
+         sodipodi:role="line"
+         x="1402.6857"
+         y="2366.637"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#800000"
+         id="tspan4594">várható átadás: 2020-21</tspan><tspan
+         sodipodi:role="line"
+         x="1402.6857"
+         y="2382.262"
+         id="tspan4584" /></text>
+    <path
+       sodipodi:nodetypes="sssssssccss"
+       inkscape:connector-curvature="0"
+       id="path4597"
+       d="m 834.47741,2401.2054 -183.7291,0 c -8.8875,0 -16.0426,6.2411 -16.0426,13.9934 l 0,35.8961 c 0,7.7524 7.1551,13.9934 16.0426,13.9934 l 183.7291,0 c 8.8876,0 16.0426,-6.241 16.0426,-13.9934 l 116.48359,43.9575 -116.48359,-54.7853 0,-25.0683 c 0,-7.7523 -7.155,-13.9934 -16.0426,-13.9934 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="742.24207"
+       y="2420.0073"
+       id="text4599"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="742.24207"
+         y="2420.0073"
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#800000">Szentendre - Békásmegyer</tspan><tspan
+         sodipodi:role="line"
+         x="742.24207"
+         y="2438.7573"
+         id="tspan4603"
+         style="font-size:15px;text-align:center;text-anchor:middle;fill:#800000">11-es út mentén</tspan><tspan
+         sodipodi:role="line"
+         x="742.24207"
+         y="2455.0154"
+         id="tspan4605"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#800000">2018-ban felújítva!</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 734.81093,2035.1774 -174.31332,0 c -8.43203,0 -15.22044,5.2253 -15.22044,11.7158 l 0,30.0536 c 0,6.4906 6.78841,11.7158 15.22044,11.7158 l 174.31332,0 c 8.43212,0 15.22044,-5.2252 15.22044,-11.7158 l 27.88326,53.0071 -27.88326,-62.0725 0,-20.9882 c 0,-6.4905 -6.78832,-11.7158 -15.22044,-11.7158 z"
+       id="path4607"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssccss" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4609"
+       y="2055.6934"
+       x="642.05273"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle;fill:#008080"
+         id="tspan4615"
+         y="2055.6934"
+         x="642.05273"
+         sodipodi:role="line">Pomázi kerékpárút</tspan><tspan
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#008080"
+         y="2071.9514"
+         x="642.05273"
+         sodipodi:role="line"
+         id="tspan4622">átadás 2019-ben</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 761.21424,1819.2054 -224.42199,0 c -10.85594,0 -19.59577,6.2411 -19.59577,13.9934 l 0,35.8961 c 0,7.7524 8.73983,13.9934 19.59577,13.9934 l 224.42199,0 c 10.85604,0 19.59577,-6.241 19.59577,-13.9934 l 241.73049,-86.0895 -241.73049,75.2617 0,-25.0683 c 0,-7.7523 -8.73973,-13.9934 -19.59577,-13.9934 z"
+       id="path4626"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssccss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="647.26904"
+       y="1839.2509"
+       id="text4628"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="647.26904"
+         y="1839.2509"
+         id="tspan4630"
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle">11-es út szentendrei szakasza</tspan><tspan
+         sodipodi:role="line"
+         x="647.26904"
+         y="1855.509"
+         style="font-style:italic;text-align:center;text-anchor:middle"
+         id="tspan4634">2017 óta a kerékpározás felőtteknek</tspan><tspan
+         sodipodi:role="line"
+         x="647.26904"
+         y="1871.134"
+         style="font-style:italic;text-align:center;text-anchor:middle"
+         id="tspan4642">engedélyezett - CSAK ÓVATOSAN!</tspan><tspan
+         sodipodi:role="line"
+         x="647.26904"
+         y="1886.759"
+         style="font-style:italic;text-align:center;text-anchor:middle"
+         id="tspan4640" /><tspan
+         sodipodi:role="line"
+         x="647.26904"
+         y="1902.384"
+         style="font-style:italic;text-align:center;text-anchor:middle"
+         id="tspan4636" /></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#501616;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1215.3844,1814.9122 139.6502,0 c 8.7102,0 15.7223,7.0122 15.7223,15.7223 l 0,26.5581 c 0,8.7101 -7.0121,15.7223 -15.7223,15.7223 l -139.6502,0 c -8.7102,0 -15.7223,-7.0122 -15.7223,-15.7223 l 0,-9.6395 0,-5.6396 -105.271,-39.1348 105.271,27.8558 c 8.4203,2.2281 7.0121,-15.7223 15.7223,-15.7223 z"
+       id="rect5221"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssscccss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1289.1257"
+       y="1832.3069"
+       id="text5764"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5766"
+         x="1289.1257"
+         y="1832.3069"
+         style="font-weight:bold;font-size:15px;text-align:center;text-anchor:middle;fill:#4d4d4d">Tourinform iroda</tspan><tspan
+         sodipodi:role="line"
+         x="1291.1155"
+         y="1848.5651"
+         id="tspan5768"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d">kerékpáros tanácsok, </tspan><tspan
+         sodipodi:role="line"
+         x="1289.1257"
+         y="1864.1901"
+         id="tspan5770"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#4d4d4d">szerszámok, pumpa</tspan></text>
+    <path
+       sodipodi:nodetypes="sssssssccss"
+       inkscape:connector-curvature="0"
+       id="path5900"
+       d="m 648.81093,1559.1774 -174.31332,0 c -8.43203,0 -15.22044,5.2253 -15.22044,11.7158 l 0,30.0536 c 0,6.4906 6.78841,11.7158 15.22044,11.7158 l 174.31332,0 c 8.43212,0 15.22044,-5.2252 15.22044,-11.7158 l 150.80497,-34.7059 -150.80497,25.6405 0,-20.9882 c 0,-6.4905 -6.78832,-11.7158 -15.22044,-11.7158 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#006680;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006680;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="556.05273"
+       y="1579.6931"
+       id="text5902"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="556.05273"
+         y="1579.6931"
+         id="tspan5904"
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle;fill:#006680">Bükkös-patakparti</tspan><tspan
+         id="tspan5907"
+         sodipodi:role="line"
+         x="556.05273"
+         y="1595.9513"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#006680">bicikli- és gyalogút</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#006680;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 612.81093,1345.1888 -174.31332,0 c -8.43203,0 -15.22044,5.5248 -15.22044,12.3873 l 0,31.7763 c 0,6.8626 6.78841,12.3873 15.22044,12.3873 l 174.31332,0 c 8.43212,0 15.22044,-5.5247 15.22044,-12.3873 l 61.2389,9.6751 -61.2389,-19.2601 0,-22.1913 c 0,-6.8625 -6.78832,-12.3873 -15.22044,-12.3873 z"
+       id="path5915"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssccss" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5917"
+       y="1363.6931"
+       x="520.05273"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#006680;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle;fill:#006680"
+         id="tspan5919"
+         y="1363.6931"
+         x="520.05273"
+         sodipodi:role="line">Izbég-Skanzen</tspan><tspan
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#006680"
+         y="1379.9513"
+         x="520.05273"
+         sodipodi:role="line"
+         id="tspan5921">meglévő kis utakon</tspan><tspan
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#006680"
+         y="1395.5763"
+         x="520.05273"
+         sodipodi:role="line"
+         id="tspan5923">kijelölés tervezés alatt</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1254.1112,1653.6761 5.2712,-44 9.2712,44 174.5424,0 c 9.1466,0 16.5102,6.2411 16.5102,13.9934 l 0,19.8961 c 0,7.7524 -7.3636,13.9934 -16.5102,13.9934 l -189.0848,0 c -9.1466,0 -16.5102,-6.241 -16.5102,-13.9934 l 0,-19.8961 c 0,-7.7523 7.4364,-12.8417 16.5102,-13.9934 z"
+       id="path12211"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccssssccs" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text12213"
+       y="1677.0994"
+       x="1348.2274"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle;fill:#008000"
+         id="tspan12217"
+         y="1677.0994"
+         x="1348.2274"
+         sodipodi:role="line">Szigeti kis kör</tspan><tspan
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#008000"
+         y="1693.3575"
+         x="1348.2274"
+         sodipodi:role="line"
+         id="tspan12221">A szigeten gyér autóforgalom</tspan></text>
+    <path
+       sodipodi:nodetypes="sssssssccss"
+       inkscape:connector-curvature="0"
+       id="path5381"
+       d="m 1228.6575,2661.2054 159.7291,0 c 8.8875,0 16.0426,6.2411 16.0426,13.9934 l 0,21.8961 c 0,7.7524 -7.1551,13.9934 -16.0426,13.9934 l -159.7291,0 c -8.8876,0 -8.8312,-16.8386 -16.0426,-13.9934 l -89.4153,-15.0128 89.4153,4.185 0,-11.0683 c 0,-7.7523 7.155,-13.9934 16.0426,-13.9934 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#800000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5383"
+       y="2681.6289"
+       x="1310.6857"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5389"
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle"
+         y="2681.6289"
+         x="1310.6857"
+         sodipodi:role="line">EuroVelo-6 Lupa -</tspan><tspan
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle"
+         y="2700.3789"
+         x="1310.6857"
+         sodipodi:role="line"
+         id="tspan5398">Békásmegyer</tspan><tspan
+         id="tspan5391"
+         y="2719.1289"
+         x="1310.6857"
+         sodipodi:role="line" /></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1168.6575,2875.2054 159.7291,0 c 8.8875,0 16.0426,6.2411 16.0426,13.9934 l 0,39.8961 c 0,7.7524 -7.1551,13.9934 -16.0426,13.9934 l -159.7291,0 c -17.5881,0 -15.2374,-5.1971 -16.0426,-31.9934 l -160.953,-35.314 160.953,24.4862 0,-11.0683 c 0,-7.7523 7.155,-13.9934 16.0426,-13.9934 z"
+       id="path5886"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssscccss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1250.6857"
+       y="2895.6289"
+       id="text5888"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1250.6857"
+         y="2895.6289"
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle"
+         id="tspan5890">Alternatív útvonal</tspan><tspan
+         id="tspan5892"
+         sodipodi:role="line"
+         x="1250.6857"
+         y="2914.3789"
+         style="font-style:normal;font-size:15px;text-align:center;text-anchor:middle">Budapest felé</tspan><tspan
+         sodipodi:role="line"
+         x="1250.6857"
+         y="2930.637"
+         style="font-style:italic;font-size:12.5px;text-align:center;text-anchor:middle"
+         id="tspan5896">gyér autóforgalom</tspan><tspan
+         sodipodi:role="line"
+         x="1250.6857"
+         y="2946.262"
+         id="tspan5894" /></text>
+  </g>
+</svg>
