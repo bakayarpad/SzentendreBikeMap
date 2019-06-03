@@ -17,4 +17,10 @@ Az SVG editorokkal exportálni is lehet a rajzokat, pl. PDF vagy PNG formátumba
 
 ## A qgz kiterjesztésű QGIS file-ok
 
-Szerintem csak insallálni kell a QGIS-t, és "qgis <filenév>"...
+Szerintem csak installálni kell a QGIS-t, és "qgis <filenév>"...
+
+## Egyebek
+
+- **kalkulacio.xslx**: koordináta transzformációk meghatározása
+- **svggen.sh**: alaptérkép generálás
+
