@@ -10,6 +10,11 @@ A projektben található .svg kiterjesztésű fileok megnyithatók tetszőleges 
 
 Az SVG editorokkal exportálni is lehet a rajzokat, pl. PDF vagy PNG formátumba.
 
+- **AlapTerkep.svg**: csak a Mapy.cz winter-t tartalmazza
+- **AlapTerkepUtakkal.svg**: rá vannak rajzolva az utak és a szövegbuborékok
+- **AlapTerkepUtakkal_GeoL_BubL.svg**: az utak, ill. a buborékok külön rétegekbe kerültek, ezek közül az utak rétege úgy van transzformálva, hogy földrajzi kookdinátákkal lehet leírni. 
+
+
 ## A qgz kiterjesztésű QGIS file-ok
 
 Szerintem csak insallálni kell a QGIS-t, és "qgis <filenév>"...
